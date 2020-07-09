@@ -1,0 +1,25 @@
+client_tabs:
+    cisco_amp:
+        view: cisco_amp_tab
+        i18n: cisco_amp.title
+listings:
+    cisco_amp:
+        view: cisco_amp_listing
+        i18n: cisco_amp.listing.title
+reports:
+    cisco_amp:
+        view: cisco_amp_report
+        i18n: cisco_amp.report.title
+widgets:
+    cisco_amp_status:
+        view: cisco_amp_status_widget
+    cisco_amp_mode:
+        view: cisco_amp_mode_widget
+    cisco_amp_scan:
+        view: cisco_amp_scan_widget
+    cisco_amp_policy:
+        view: cisco_amp_policy_widget
+    cisco_amp_definition_version:
+        view: cisco_amp_definition_version_widget
+    cisco_amp_app_version:
+        view: cisco_amp_app_version_widget

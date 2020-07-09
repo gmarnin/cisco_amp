@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: cisco_amp-policy-scrollbox-widget
+api_url: /module/cisco_amp/get_list/policy
+i18n_title: cisco_amp.widget.policy_title
+icon: fa-laptop
+listing_link: /show/listing/cisco_amp/cisco_amp
+search_key: label
+badge: count

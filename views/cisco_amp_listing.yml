@@ -1,0 +1,38 @@
+i18n_title: cisco_amp.listing.title
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: cisco_amp
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: cisco_amp.status
+        i18n_header: cisco_amp.column.status
+    -   column: cisco_amp.mode
+        i18n_header: cisco_amp.column.mode
+    -   column: cisco_amp.app_version
+        i18n_header: cisco_amp.column.app_version
+    -   column: cisco_amp.scan
+        i18n_header: cisco_amp.column.scan
+    -   column: cisco_amp.last_scan
+        i18n_header: cisco_amp.column.last_scan
+    -   column: cisco_amp.policy
+        i18n_header: cisco_amp.column.policy
+    -   column: cisco_amp.last_update
+        i18n_header: cisco_amp.column.last_update
+    -   column: cisco_amp.definition_version
+        i18n_header: cisco_amp.column.definition_version
+    -   column: cisco_amp.definition_last_updated
+        i18n_header: cisco_amp.column.definition_last_updated
+    -   column: cisco_amp.command_line
+        i18n_header: cisco_amp.column.command_line
+    -   column: cisco_amp.faults
+        i18n_header: cisco_amp.column.faults
+    -   column: cisco_amp.quarantine_behavior
+        i18n_header: cisco_amp.column.quarantine_behavior
+    -   column: cisco_amp.protection
+        i18n_header: cisco_amp.column.protection
+    -   column: cisco_amp.proxy
+        i18n_header: cisco_amp.column.proxy
+    -   column: cisco_amp.notifications
+        i18n_header: cisco_amp.column.notifications

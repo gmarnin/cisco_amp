@@ -1,0 +1,43 @@
+{
+    "column": {
+        "status": "Status",
+        "mode": "Mode",
+        "scan": "Scan",
+        "last_scan": "Last Scan",
+        "policy": "Policy",
+        "command_line": "Command Line",
+        "faults": "Faults",
+        "quarantine_behavior": "Quarantine Behavior",
+        "protection": "Protection",
+        "proxy": "Proxy",
+        "notifications": "Notifications",
+        "last_update": "Last Update",
+        "definition_version": "Definition Version",
+        "definition_last_updated": "Definition Last Updated",
+        "app_version": "App Version"
+    },
+    "listing": {
+        "title": "Cisco AMP"
+    },
+    "report": {
+        "title": "Cisco AMP"
+    },
+    "title": "Cisco AMP",
+    "widget": {
+        "status_title": "Status",
+        "mode_title": "Mode",
+        "scan_title": "Scan",
+        "last_scan_title": "Last Scan",
+        "policy_title": "Policy",
+        "command_line_title": "Command Line",
+        "faults_title": "Faults",
+        "quarantine_behavior_title": "Quarantine Behavior",
+        "protection_title": "Protection",
+        "proxy_title": "Proxy",
+        "notifications_title": "Notifications",
+        "last_update_title": "Last Update",
+        "definition_version_title": "Definition Version",
+        "definition_last_updated_title": "Definition Last Updated",
+        "app_version": "App Version"
+    }
+}

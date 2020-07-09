@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: cisco_amp-scan-scrollbox-widget
+api_url: /module/cisco_amp/get_list/scan
+i18n_title: cisco_amp.widget.scan_title
+icon: fa-laptop
+listing_link: /show/listing/cisco_amp/cisco_amp
+search_key: label
+badge: count

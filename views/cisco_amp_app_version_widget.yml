@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: cisco_amp-app_version-scrollbox-widget
+api_url: /module/cisco_amp/get_list/app_version
+i18n_title: cisco_amp.column.app_version
+icon: fa-laptop
+listing_link: /show/listing/cisco_amp/cisco_amp
+search_key: label
+badge: count

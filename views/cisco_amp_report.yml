@@ -1,0 +1,7 @@
+row1:
+    cisco_amp_status: {  }
+    cisco_amp_mode: {  }
+    cisco_amp_scan: {  }
+    cisco_amp_policy: {  }
+    cisco_amp_definition_version: {  }
+    cisco_amp_app_version: {  }
